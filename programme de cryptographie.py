@@ -28,7 +28,7 @@ if choix == "encoder":
     print (encodage(mot))
 
 if choix == "décoder":
-    print (encodage(mot))
+    print (décodage(mot))
 #else:
     #print (décodage(mot))
 
